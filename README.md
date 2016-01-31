@@ -5,7 +5,7 @@ A curated list of awesome packages and links concerning the truly awesome web de
 * [Official](#official)
 * [Packages](#packages)
 * [Hacking](#hacking)
-* [Articles](#articles)
+* [Interesting Links](#interesting-links)
 
 ### Official
 * [Official website](http://brackets.io/)
@@ -17,4 +17,8 @@ A curated list of awesome packages and links concerning the truly awesome web de
 
 ### Hacking
 
-### Articles
+### Interesting Links
+* Adobe - [Brackets: Code the Web](https://www.youtube.com/watch?v=2Tk7AUaExBQ)
+* Web Craftie - [Getting Started with a Code Editor: Brackets](https://www.youtube.com/watch?v=GN0txxeT46A)
+* Web Craftie - [Intro to Converting PSD to HTML/CSS with Brackets Extract Tool](https://www.youtube.com/watch?v=lEf0omJ0oS4)
+* Peter Flynn and Kevin Dangoor - [Building Live HTML and Omniscient](https://www.youtube.com/watch?v=Axpi1_OVSdo)
